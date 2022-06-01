@@ -1,0 +1,17 @@
+D:\FashionApp-master\FashionApp\FashionApp\bin\Debug\netstandard2.0\FashionApp.deps.json
+D:\FashionApp-master\FashionApp\FashionApp\bin\Debug\netstandard2.0\FashionApp.dll
+D:\FashionApp-master\FashionApp\FashionApp\bin\Debug\netstandard2.0\FashionApp.pdb
+D:\FashionApp-master\FashionApp\FashionApp\obj\Debug\netstandard2.0\FashionApp.csproj.AssemblyReference.cache
+D:\FashionApp-master\FashionApp\FashionApp\obj\Debug\netstandard2.0\FashionApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\FashionApp-master\FashionApp\FashionApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\FashionApp-master\FashionApp\FashionApp\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+D:\FashionApp-master\FashionApp\FashionApp\obj\Debug\netstandard2.0\Views\CollectionsPage.xaml.g.cs
+D:\FashionApp-master\FashionApp\FashionApp\obj\Debug\netstandard2.0\Views\ExplorePage.xaml.g.cs
+D:\FashionApp-master\FashionApp\FashionApp\obj\Debug\netstandard2.0\Views\ProfilePage.xaml.g.cs
+D:\FashionApp-master\FashionApp\FashionApp\obj\Debug\netstandard2.0\Views\ShopPage.xaml.g.cs
+D:\FashionApp-master\FashionApp\FashionApp\obj\Debug\netstandard2.0\FashionApp.AssemblyInfoInputs.cache
+D:\FashionApp-master\FashionApp\FashionApp\obj\Debug\netstandard2.0\FashionApp.AssemblyInfo.cs
+D:\FashionApp-master\FashionApp\FashionApp\obj\Debug\netstandard2.0\FashionApp.csproj.CoreCompileInputs.cache
+D:\FashionApp-master\FashionApp\FashionApp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\FashionApp-master\FashionApp\FashionApp\obj\Debug\netstandard2.0\FashionApp.dll
+D:\FashionApp-master\FashionApp\FashionApp\obj\Debug\netstandard2.0\FashionApp.pdb
